@@ -48,3 +48,24 @@ h1 {
     color: #5AD2AE;
 }
 
+.form-control {
+
+/*position: absolute;*/
+left: 0px ;
+right: 0px ;
+top: 0px ;
+bottom: 15%;
+margin: 0px auto;
+background: #FFFFFF;
+border: 1px solid #C3F1FF;
+box-sizing: border-box;
+border-radius: 39.5px;
+}
+
+input{
+
+    width: 500px;
+height: 80px;
+left: 470px;
+top: 410px;
+}
